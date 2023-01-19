@@ -1,5 +1,3 @@
-# projecte repo
-
 # Masterclass GIT 
 Masterclass feta el 18 de gener per aprendre les **funcionalitats bàsiques i avançades de git** a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
